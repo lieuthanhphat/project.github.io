@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	text-align: center;
+	margin: 0 auto;
+}
+.form-signin{
+	width: 100%;
+	max-width: 400px;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+.form-signin input[type="email"]{
+	margin-bottom: -1px;
+	margin-top: 10px;
+}
